@@ -1,0 +1,16 @@
+.temp-button{
+    width:200px;
+    height: 200px;
+    font-size: 60px;
+    background: #81ecec;
+    color:#ff7675;
+    font-weight: bold;
+}
+
+.temp-div{
+    border: 2px solid #6c5ce7;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
